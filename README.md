@@ -43,4 +43,4 @@ The application can answer questions about:
 
 [🚀 Live Demo - Insurellm RAG Assistant](https://huggingface.co/spaces/Ritesh023/insurellm-rag-assistant)
 
-💻 [GitHub Repository](https://github.com/Rites23/insurellm-rag-assistant)
+
