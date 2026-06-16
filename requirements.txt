@@ -1,0 +1,15 @@
+gradio
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-pinecone
+pinecone
+openai
+python-dotenv
+tiktoken
+pypdf
+beautifulsoup4
+lxml
+unstructured
+wikipedia
